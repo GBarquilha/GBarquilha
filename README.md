@@ -1,6 +1,9 @@
 ### Olá 👋
 
 Eu estou cursando Tecnico em Informática, eu estou estudando banco de dados, redes de computadores e JavaScript
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Oiee!+👋+My+name+is+Gabriel.;Also+known+as+GB+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
+
 <!--
 **GBarquilha/GBarquilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
